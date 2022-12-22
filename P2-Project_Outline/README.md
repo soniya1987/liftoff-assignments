@@ -7,26 +7,10 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-BRAINSTORMING Travel Ideas app
-  1. User authentication
-     a.  Login
-  2. User profile
-     a.  Save user interests/hobbies (CRUD)
-     b.  Save bucket list of places they want to go (CRUD)
-         i.  Set up alerts for low airline prices for the bucket list locations (Backlog)
-  3. Search feature (enter current location and destination, method of travel, type of traveler [activities, sightseeing])
-     a.  Weather forecast
-     b.  Results include
-         i.  Activities/hidden gems along the way for road trips (look for free API)
-        ii.  Activities at destination (look for free API)
-       iii.  Activity reviews - Yelp API
-        iv.  Restaurants in the area
-         v.  hotel/airline prices/availability (look for free API) (Backlog)
-        vi.  link to website (Backlog)
-     c.  Navigation (Google Maps API)
-  4.  Quiz with top 5 results (Backlog)
-  5.  Special events (based on specific interests) (Backlog)
-  6.  Meet in the middle (Backlog)
+This application will let the user gather some travel ideas from some existing repository or from an external api based on the user travel informaition like the source and destination of the travel and date ranges that the user wants to travel.
+
+The user can do a search for the location and destination, method of travel and type of traveller, the search result would include weather forecast on the destination for the date range selected and also based on the method of travel pulls information regarding the mode of travel and available resources.  Results also will include based on the user interest like activities to do or sightseeing places.  The search results will also include the restaurant information on the destination are based on filter criteria.
+
 ### Features
   1. Save user interests/hobbies
   2. Save bucket list of places a user wants to go
