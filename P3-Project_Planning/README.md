@@ -46,3 +46,6 @@ Find our wireframes [here](https://app.moqups.com/hhxnx1hCv8zFVtI76gFmx8367AUNC3
 
 ## Github link
 Find our code [here](https://github.com/soniya1987/liftofproject)
+
+## Trello link
+Find our project link [here](https://trello.com/b/J34qr4nR/bucket-list-adventures)
